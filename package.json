@@ -1,5 +1,5 @@
 {
-  "name": "capstone-1-frontend",
+  "name": "capstone-2-frontend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.3",
+    "socket.io-client": "^4.8.1",
     "webpack": "^5.99.9",
     "webpack-cli": "^6.0.1"
   },
