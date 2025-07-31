@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode production",
+    "start": "NODE_ENV=production webpack --mode production",
     "build": "webpack --mode production",
     "vercel-build": "npm run build",
     "lint": "eslint src/**/*.{js,jsx}",
