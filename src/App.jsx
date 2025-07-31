@@ -15,9 +15,6 @@ const socket = io(SOCKETS_URL, {
   withCredentials: NODE_ENV === "production",
 });
 
-console.log("🔗 Socket URL:", SOCKETS_URL);
-console.log("🌳 Node environment:", NODE_ENV);
-
 const App = () => {
   const [user, setUser] = useState(null);
 
