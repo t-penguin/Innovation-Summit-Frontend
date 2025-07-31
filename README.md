@@ -1,12 +1,10 @@
-# Capstone I Frontend
+# Capstone II Frontend
 
 This project uses React and React-Router to display a Single-Page App.
 
-Please refer to the [Capstone I Project Requirements](./REQUIREMENTS.md), as well as the [Collaboration Guide](./CAPSTONE-I.md).
-
 ## Getting Started
 
-This app works best in conjunction with a Capstone I Backend. Go to that repo and get it up and running so that this Frontend has an API to request data from.
+This app works best in conjunction with a Capstone II Backend. Go to that repo and get it up and running so that this Frontend has an API to request data from.
 
 With that done, run the following commands:
 
