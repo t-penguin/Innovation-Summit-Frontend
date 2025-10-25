@@ -3,6 +3,7 @@
   "routes": [
     { "src": "/main.js", "dest": "/main.js" },
     { "src": "/favicon.ico", "dest": "/favicon.ico" },
+    { "src": "/lightbulb.png", "dest": "/lightbulb.png" },
     { "src": "/react-logo.svg", "dest": "/react-logo.svg" },
     { "src": "/spongebob-404.webp", "dest": "/spongebob-404.webp" },
     { "src": "/(.*)", "dest": "/index.html" }
